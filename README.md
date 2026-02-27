@@ -393,7 +393,7 @@ In Atlas → Network Access → Add IP Address → `0.0.0.0/0`
 
 ## Author
 
-**Zohaib** — [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+**Zohaib** — [GitHub](https://github.com/Iamzohaibali) · [LinkedIn](https://www.linkedin.com/in/zohaib-ahmad-ali-dev/)
 
 ---
 
